@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-fsn7y7.indcuan.sbs/sitemap.xml
